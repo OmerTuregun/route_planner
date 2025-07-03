@@ -1,0 +1,13 @@
+C:\Users\trkur\OneDrive\Masaüstü\prolab\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRotaPlanlayici.csproj.AssemblyReference.cache
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRotaPlanlayici.csproj.AssemblyReference.cache
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRotaPlanlayici.Properties.Resources.resources
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRotaPlanlayici.csproj.GenerateResource.cache
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRotaPlanlayici.csproj.CoreCompileInputs.cache
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\bin\Debug\IzmitRotaPlanlayici.exe.config
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\bin\Debug\IzmitRotaPlanlayici.exe
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\bin\Debug\IzmitRotaPlanlayici.pdb
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\bin\Debug\Newtonsoft.Json.dll
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\bin\Debug\Newtonsoft.Json.xml
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRot.2DEA44A6.Up2Date
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRotaPlanlayici.exe
+C:\Projeler\IzmitRotaPlanlayici\IzmitRotaPlanlayici\obj\Debug\IzmitRotaPlanlayici.pdb
